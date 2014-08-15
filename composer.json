@@ -1,0 +1,18 @@
+{
+  "name": "cms-kit extension documentation",
+  "type": "library",
+  "version": "0.6.0",
+  "description": "Basic set of documentations to install and use via Package-Manager",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Christoph Taubmann",
+      "email": "info@cms-kit.com"
+    }
+  ],
+  "homepage": "http://cms-kit.com",
+    "require": {
+    "php": ">=5.3.3",
+    "cmskit/lib-jquery-ui": "dev-master"
+  }
+}
