@@ -1,22 +1,22 @@
 # cms-kit Extension Documentation
 
-Path: cms-kit/backend/extensions/documentation
+Path: backend/extensions/documentation
 
 ## Description
 
-The only Purpose of this "Extension" is packaging some Documentations for cms-kit. 
-It uses the cms-kit Documentation-Engine accessable with Extension-Manager.
+The only purpose of this extension is packaging some documentations for cms-kit.
+It uses the cms-kit documentation-engine accessable with package-manager.
 
-Documentations are Markdown-Files and are located under doc/[LANGUAGE-SHORT]/ 
+Documentations are Markdown-Extra files and are located under doc/[LANGUAGE-SHORT]/
 
-Wizards and some Code-Examples are available as well. See Submenu "Code" in Extension-Manager
+Wizards and some code examples are available as well.
 
 
 ## Installation
 
 ### Manual installation
 
-1. download and extract this Folder (documentation) into backend/extensions/
+1. download and extract this folder (documentation) into backend/extensions/
 
 ### Installation via package management
 
